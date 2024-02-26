@@ -1,0 +1,11 @@
+#edit_details{
+    position: fixed;
+    top: 50%;
+    left: 8.8%;
+    transform: translateY(-50%);
+    background-color:#CCE5FF;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(100, 15, 15, 0.1);
+    border-radius: 8px;
+    z-index: 1000;
+}
